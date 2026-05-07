@@ -1,0 +1,6 @@
+root = true
+
+[*]
+# regras vao valer para todos os arquivos   se fosse [.js] seriam apenas para os arquivos .js
+indent_style = space
+indent_size = 2
